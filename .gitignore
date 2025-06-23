@@ -1,0 +1,23 @@
+
+backend/venv/
+frontend/note.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+media/
+staticfiles/
+
+# Node (for React frontend)
+node_modules/
+build/
+dist/
+.env.local
